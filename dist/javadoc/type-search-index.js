@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"practica61","l":"Android"},{"p":"practica61","l":"Gps"},{"p":"practica61","l":"Linterna"},{"p":"practica61","l":"Pijiphone"},{"p":"practica61","l":"Practica61"},{"p":"practica61","l":"Telefono"}];updateSearchResults();
